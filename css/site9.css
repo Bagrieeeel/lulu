@@ -1,0 +1,27 @@
+body {
+	background-color: black;
+}
+
+.homi {
+	position: absolute;
+	top: 1100px;
+	
+}
+
+.lulu {
+	width: 620px;
+	position: absolute;
+	top: 300px;
+	right: 185px;
+}
+
+h1 {
+	width: 500px;
+	font-size: 65px;
+	color: white;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	position: absolute;
+	top: 10px;
+	left: 265px;
+
+}
